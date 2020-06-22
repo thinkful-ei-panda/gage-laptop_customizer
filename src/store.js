@@ -10,13 +10,14 @@ const  FEATURES = {
       }
     ],
     "Operating System": [
+      //***linux is free 눈_눈 ***/
       {
         name: 'Ubuntu Linux 16.04',
-        cost: 200
+        cost: 0.00
       },
       {
-        name: 'Bodhi Linux',
-        cost: 300
+        name: 'Win10',
+        cost: 149.99
       }
     ],
     "Video Card": [
